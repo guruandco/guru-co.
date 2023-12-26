@@ -56,7 +56,7 @@ header{
    color: #fff;
    font-family: Georgia, 'Times New Roman', Times, serif;
    font-style: italic;
-   font-size: 50px;
+   font-size: 45px;
 } 
 
 .content p{
@@ -72,7 +72,7 @@ header{
    padding:0px;
    box-sizing:border-box;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   background-color: #f2f2f2;
+   background-color: #fff;
  }
  .heading{
    width:90%;
@@ -259,7 +259,7 @@ header{
    color:#333;
 }
 .hero-contentp{
-   font-size: 24px;
+   font-size: 22px;
    line-height: 1.5px;
    margin-bottom :40px;
    color:#666;
@@ -353,9 +353,8 @@ img{
 }
 .last{
    background-color: rgba(145, 25, 127, 0.125);
-  
    width:100%;
-   font-size: 20px;
+   font-size: 15px;
 }
 .in2{
    position: relative;
