@@ -35,7 +35,7 @@ header{
    cursor:pointer;
    padding-right: 40px;
    padding-top: 40px;
-   padding-left: 30%;
+   padding-left: 25%;
    stroke-width: 5;
    border-radius: 50%;
    justify-content: center;
@@ -56,7 +56,7 @@ header{
    color: #fff;
    font-family: Georgia, 'Times New Roman', Times, serif;
    font-style: italic;
-   font-size: 40px;
+   font-size: 30px;
 } 
 
 .content p{
